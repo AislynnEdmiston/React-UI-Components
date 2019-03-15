@@ -1,1 +1,10 @@
 /* All styles for your header Components live here */
+.header-title{
+    display: flex;
+    justify-content: space-between;
+}
+.header-title .header-title-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
