@@ -1,0 +1,16 @@
+.display-container{
+    background-color: #222;
+    height: 120px;
+    width: 400px;
+    color: #fff;
+    font-size: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.display-container p {
+    padding-right: 15px;
+    font-weight: lighter;
+}
