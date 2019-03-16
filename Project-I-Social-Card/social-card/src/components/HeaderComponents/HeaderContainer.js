@@ -8,7 +8,7 @@ const HeaderContainer = () => {
       <div>
        
        <HeaderTitle />
-       <HeaderContent />
+       
       </div>
     );
   };

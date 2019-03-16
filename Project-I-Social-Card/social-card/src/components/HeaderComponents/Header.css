@@ -2,9 +2,7 @@
 .header-title{
     display: flex;
     justify-content: space-between;
-}
-.header-title .header-title-text {
-    display: flex;
-    justify-content: space-between;
     align-items: baseline;
+    width: 45%;
+    flex-wrap: wrap;
 }
