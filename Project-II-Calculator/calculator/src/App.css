@@ -1,0 +1,8 @@
+.calculator-container{
+    width: 400px;
+    margin: 0 auto;
+    border: 2px solid #979797;
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
